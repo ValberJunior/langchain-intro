@@ -4,6 +4,9 @@ Projeto introdutório de LangGraph com Node.js. Implementa um agente de roteamen
 
 ## Visão geral do grafo
 
+<img width="543" height="390" alt="image" src="https://github.com/user-attachments/assets/20492568-8463-4af1-a49b-6153dfac59cd" />
+
+
 ```
 START → identifyIntent → [uppercase | lowercase | fallback] → chatResponse → END
 ```
